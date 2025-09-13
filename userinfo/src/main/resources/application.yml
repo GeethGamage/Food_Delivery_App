@@ -8,7 +8,7 @@ eureka:
 
 spring:
   application:
-    name: USER-SERVICE
+    name: USERSERVICE
   datasource:
     url: jdbc:mysql://localhost:3306/userdb
     username: root
